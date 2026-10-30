@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/takasuke",
  "yomi": "ふじわらのたかすけあそんしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "鎌倉中期",
+  "author": "藤原隆祐",
+  "desc": "藤原家隆の子、隆祐の家集。尋ねに応じて自詠を書き出したという書状の形で始まり、自歌を左右に番えた部分や、歌の詠み方の教えを伝える記事を含む。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -1656,6 +1661,6 @@
   "poems": 141,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
